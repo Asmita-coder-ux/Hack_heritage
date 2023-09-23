@@ -1,0 +1,34 @@
+.scholarship-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .scholarship-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .scholarship-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .scholarship-item {
+    margin: 10px 0;
+  }
+  
+  .scholarship-link {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .scholarship-link:hover {
+    text-decoration: underline;
+  }
